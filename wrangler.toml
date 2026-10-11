@@ -4,7 +4,7 @@ pages_build_output_dir = "."
 
 [vars]
 ENVIRONMENT = "production"
-TURNSTILE_SITEKEY = "0x4AAAAAAFSBKEwkLqhg0A8Z"
+TURNSTILE_SITEKEY = "0x4AAAAAAFT-wmzi93S2YwbR"
 
 # Shared KV namespace (Freze). Data is isolated under the key "transfers_mm88".
 [[kv_namespaces]]
